@@ -1,3 +1,5 @@
+# for output
+set -x
 
 export RSH=ssh;
 
