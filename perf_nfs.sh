@@ -1,3 +1,6 @@
+
+export RSH=ssh;
+
 # sequential writes
 
 #deleting files from mount point
