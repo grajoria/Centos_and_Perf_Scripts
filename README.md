@@ -1,2 +1,2 @@
 # MyScripts
-Scripts centos test runs and perf runs 
+Scripts for centos test runs and perf runs 
